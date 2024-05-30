@@ -30,6 +30,6 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           message: 'chore: update sponsors.svg'
-          add: 'sk/*.{svg,png}'
+          add: 'sk/*.svg sk/*.png'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
