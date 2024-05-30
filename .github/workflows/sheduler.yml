@@ -3,7 +3,7 @@ name: Scheduler
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # every day at midnight
   push:
     branches: [main]
 
@@ -30,6 +30,6 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           message: 'chore: update sponsors.svg'
-          add: 'sponsors.*'
+          add: 'sk/*.{svg,png}'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
