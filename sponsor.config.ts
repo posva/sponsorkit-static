@@ -31,16 +31,7 @@ export default defineConfig({
     {
       title: 'Bronze Sponsors',
       monthlyDollars: 100,
-      preset: {
-        avatar: {
-          size: 42,
-        },
-        boxWidth: 52,
-        boxHeight: 52,
-        container: {
-          sidePadding: 30,
-        },
-      },
+      preset: tierPresets.medium,
     },
     {
       title: 'Silver Sponsors',
@@ -59,13 +50,26 @@ export default defineConfig({
     },
   ],
 
-  // Replace links and avatars
-  // replaceLinks: {
-  //   'https://github.com/antfu': 'https://antfu.me',
-  // },
-  // replaceAvatars: {
-  //   ...
-  // },
+  onSponsorsFetched(sponsors) {
+    const VueMastery = sponsors.find(
+      (s) => s.sponsor.login.toLowerCase() === 'gregg',
+    )
+    if (VueMastery) {
+      VueMastery.sponsor.name = 'Vue\u{00a0}Mastery'
+      VueMastery.sponsor.avatarUrl =
+        'https://avatars.githubusercontent.com/u/22382188?s=200&v=4'
+      VueMastery.sponsor.websiteUrl = VueMastery.sponsor.linkUrl =
+        'https://www.vuemastery.com'
+    }
+
+    const prefect = sponsors.find(
+      (s) => s.sponsor.login.toLowerCase() === 'marvin-robot',
+    )
+    if (prefect) {
+      // prefect.sponsor.avatarUrl = 'https://posva-sponsors.pages.dev/logos/prefect.svg'
+      prefect.sponsor.linkUrl = 'https://www.prefect.io'
+    }
+  },
 
   // Automatically Merge sponsors from different platforms
   sponsorsAutoMerge: true,

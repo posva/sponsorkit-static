@@ -1,3 +1,4 @@
-sponsorkit
 .env
 node_modules
+sk/.cache.json
+.DS_Store
