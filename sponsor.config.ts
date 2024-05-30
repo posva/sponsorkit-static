@@ -1,0 +1,108 @@
+import { type BadgePreset, defineConfig, tierPresets } from 'sponsorkit'
+
+const presetPast = {
+  avatar: {
+    size: 20,
+  },
+  boxWidth: 22,
+  boxHeight: 22,
+  container: {
+    sidePadding: 35,
+  },
+} satisfies BadgePreset
+
+export default defineConfig({
+  // includePrivate: true,
+  tiers: [
+    {
+      title: 'Past Sponsors',
+      monthlyDollars: -1,
+      preset: presetPast,
+    },
+    {
+      title: 'Backers',
+      preset: tierPresets.small,
+    },
+    {
+      title: 'Sponsors',
+      preset: tierPresets.base,
+      monthlyDollars: 10,
+    },
+    {
+      title: 'Bronze Sponsors',
+      monthlyDollars: 100,
+      preset: {
+        avatar: {
+          size: 42,
+        },
+        boxWidth: 52,
+        boxHeight: 52,
+        container: {
+          sidePadding: 30,
+        },
+      },
+    },
+    {
+      title: 'Silver Sponsors',
+      monthlyDollars: 250,
+      preset: tierPresets.medium,
+    },
+    {
+      title: 'Gold Sponsors',
+      monthlyDollars: 500,
+      preset: tierPresets.large,
+    },
+    {
+      title: 'Platinum',
+      monthlyDollars: 1000,
+      preset: tierPresets.xl,
+    },
+  ],
+
+  // Replace links and avatars
+  // replaceLinks: {
+  //   'https://github.com/antfu': 'https://antfu.me',
+  // },
+  // replaceAvatars: {
+  //   ...
+  // },
+
+  // Automatically Merge sponsors from different platforms
+  sponsorsAutoMerge: true,
+
+  outputDir: 'sk',
+  formats: ['svg', 'png'],
+
+  // Manually merge sponsors from different platforms
+  // mergeSponsors: [
+  //   [
+  //     { login: 'patak-dev', provider: 'github' },
+  //     { login: 'patak', provider: 'opencollective' },
+  //   ],
+  // ],
+
+  // Run multiple renders with different configurations
+  renders: [
+    {
+      name: 'narrow',
+      width: 600,
+    },
+    {
+      name: 'normal',
+      width: 800,
+    },
+    {
+      name: 'wide',
+      width: 1000,
+    },
+    {
+      renderer: 'circles',
+      name: 'circles',
+      width: 1000,
+      includePastSponsors: true,
+      circles: {
+        radiusPast: 3,
+      },
+    },
+  ],
+})
