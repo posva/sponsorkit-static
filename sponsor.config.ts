@@ -74,7 +74,7 @@ export default defineConfig({
 
   onSponsorsReady(sponsors) {
     fs.writeFileSync(
-      'sponsors.json',
+      'sk/sponsors.json',
       JSON.stringify(
         sponsors
           .filter((s) => s.privacyLevel !== 'PRIVATE')

@@ -32,4 +32,4 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           message: 'chore: update sponsors.svg'
-          add: 'sk/*.svg sk/*.png'
+          add: 'sk/*.svg sk/*.png sk/sponsors.json'
