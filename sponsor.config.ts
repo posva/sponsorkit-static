@@ -1,4 +1,5 @@
 import { type BadgePreset, defineConfig, tierPresets } from 'sponsorkit'
+import fs from 'node:fs'
 
 const presetPast = {
   avatar: {
@@ -69,6 +70,28 @@ export default defineConfig({
       // prefect.sponsor.avatarUrl = 'https://posva-sponsors.pages.dev/logos/prefect.svg'
       prefect.sponsor.linkUrl = 'https://www.prefect.io'
     }
+  },
+
+  onSponsorsReady(sponsors) {
+    fs.writeFileSync(
+      'sponsors.json',
+      JSON.stringify(
+        sponsors
+          .filter((s) => s.privacyLevel !== 'PRIVATE')
+          .map((s) => ({
+            name: s.sponsor.name,
+            login: s.sponsor.login,
+            avatar: s.sponsor.avatarUrl,
+            amount: s.monthlyDollars,
+            link: s.sponsor.linkUrl || s.sponsor.websiteUrl,
+            org: s.sponsor.type === 'Organization',
+            isOneTime: s.isOneTime,
+          }))
+          .sort((a, b) => b.amount - a.amount),
+        null,
+        2,
+      ),
+    )
   },
 
   // Automatically Merge sponsors from different platforms
