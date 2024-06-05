@@ -612,15 +612,6 @@
     "isOneTime": false
   },
   {
-    "name": "Paul Melero",
-    "login": "gangsthub",
-    "avatar": "https://avatars.githubusercontent.com/u/6775220?u=7f15c1c81ee951615562633ac8f31ed00f2b7842&v=4",
-    "amount": 1,
-    "link": "https://github.com/gangsthub",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Anand Chowdhary",
     "login": "AnandChowdhary",
     "avatar": "https://avatars.githubusercontent.com/u/2841780?u=747e554b3a7f12eb20b7910e1c87d817844f714f&v=4",
@@ -1549,6 +1540,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1939656?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/GDay",
+    "org": false
+  },
+  {
+    "name": "gangsthub",
+    "login": "gangsthub",
+    "avatar": "https://avatars.githubusercontent.com/u/6775220?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/gangsthub",
     "org": false
   },
   {
