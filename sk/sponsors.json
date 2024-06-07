@@ -630,15 +630,6 @@
     "isOneTime": false
   },
   {
-    "name": "John",
-    "login": "robokozo",
-    "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
-    "amount": 1,
-    "link": "https://github.com/robokozo",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "zuozizhen",
     "login": "zuozizhen",
     "avatar": "https://avatars.githubusercontent.com/u/23398788?s=60&v=4",
@@ -956,6 +947,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/50079487?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/rondered",
+    "org": false
+  },
+  {
+    "name": "robokozo",
+    "login": "robokozo",
+    "avatar": "https://avatars.githubusercontent.com/u/1719221?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/robokozo",
     "org": false
   },
   {
