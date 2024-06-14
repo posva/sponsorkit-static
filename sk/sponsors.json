@@ -477,15 +477,6 @@
     "isOneTime": false
   },
   {
-    "name": "Mr. Henry",
-    "login": "mrhenry",
-    "avatar": "https://avatars.githubusercontent.com/u/45111?v=4",
-    "amount": 1,
-    "link": "https://github.com/mrhenry",
-    "org": true,
-    "isOneTime": true
-  },
-  {
     "name": "Norman",
     "login": "nkoehring",
     "avatar": "https://avatars.githubusercontent.com/u/246402?u=5a93d26faaa0fb829fe03480f5c5a67dadd33f47&v=4",
@@ -1172,6 +1163,14 @@
     "amount": -1,
     "link": "https://github.com/mrozekma",
     "org": false
+  },
+  {
+    "name": "mrhenry",
+    "login": "mrhenry",
+    "avatar": "https://avatars.githubusercontent.com/u/45111?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/mrhenry",
+    "org": true
   },
   {
     "name": "mohamedebrahim96",
