@@ -162,6 +162,15 @@
     "isOneTime": false
   },
   {
+    "name": "Andrew Walker",
+    "login": "axwalker",
+    "avatar": "https://avatars.githubusercontent.com/u/6277658?u=52fe3cd901f526820bda9cf6da52d5475ce08dca&v=4",
+    "amount": 10,
+    "link": "https://github.com/axwalker",
+    "org": false,
+    "isOneTime": false
+  },
+  {
     "name": "Fisschl",
     "login": "fisschl",
     "avatar": "https://avatars.githubusercontent.com/u/60686701?u=da6b5d8fc28b2a70384a45f3098a27fe9af9cfe7&v=4",
@@ -250,6 +259,15 @@
     "link": "https://github.com/bencodezen",
     "org": false,
     "isOneTime": false
+  },
+  {
+    "name": "Kevin Deng 三咲智子",
+    "login": "sxzz",
+    "avatar": "https://avatars.githubusercontent.com/u/6481596?v=4",
+    "amount": 8,
+    "link": "https://github.com/sxzz",
+    "org": false,
+    "isOneTime": true
   },
   {
     "name": "Guillaume Guerin",
