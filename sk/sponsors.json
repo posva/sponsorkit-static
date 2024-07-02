@@ -279,15 +279,6 @@
     "isOneTime": false
   },
   {
-    "name": "Louis Ramos",
-    "login": "wJoenn",
-    "avatar": "https://avatars.githubusercontent.com/u/75388869?u=56435279647cc80b907c4006513a49f31fb6c1be&v=4",
-    "amount": 5,
-    "link": "https://github.com/wJoenn",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "SerKo",
     "login": "serkodev",
     "avatar": "https://avatars.githubusercontent.com/u/44749100?u=e0c8f8e5305cffe6d9a047af11d8ac0fe20d3ab0&v=4",
@@ -703,6 +694,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/42739553?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/YannicEl",
+    "org": false
+  },
+  {
+    "name": "wJoenn",
+    "login": "wJoenn",
+    "avatar": "https://avatars.githubusercontent.com/u/75388869?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/wJoenn",
     "org": false
   },
   {
