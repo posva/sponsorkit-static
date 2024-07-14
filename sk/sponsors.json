@@ -243,15 +243,6 @@
     "isOneTime": false
   },
   {
-    "name": "Göran Ehrsson",
-    "login": "goeh",
-    "avatar": "https://avatars.githubusercontent.com/u/322721?u=954d2d9de47c904ce54c842135d07ff69c88954a&v=4",
-    "amount": 10,
-    "link": "https://github.com/goeh",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Ben Hong",
     "login": "bencodezen",
     "avatar": "https://avatars.githubusercontent.com/u/4836334?u=aacee61efe3325ef286398c8673d9f4bd473eb56&v=4",
@@ -459,6 +450,15 @@
     "isOneTime": false
   },
   {
+    "name": "Göran Ehrsson",
+    "login": "goeh",
+    "avatar": "https://avatars.githubusercontent.com/u/322721?u=954d2d9de47c904ce54c842135d07ff69c88954a&v=4",
+    "amount": 5,
+    "link": "https://github.com/goeh",
+    "org": false,
+    "isOneTime": false
+  },
+  {
     "name": "kazuya kawaguchi",
     "login": "kazupon",
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=aa96aeeb839bf660697d90f50581e1c107616092&v=4",
@@ -578,7 +578,7 @@
   {
     "name": "Eduardo Donato",
     "login": "ebdonato",
-    "avatar": "https://avatars.githubusercontent.com/u/63134122?u=b3b4c4e43d24540f816cd6ebaa830f3f54a547d7&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/63134122?u=b9938b076bd74d22d233402804e5a24817ca13f0&v=4",
     "amount": 1,
     "link": "https://github.com/ebdonato",
     "org": false,
