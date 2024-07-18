@@ -18,6 +18,15 @@
     "isOneTime": true
   },
   {
+    "name": "Route4Me Route Planner",
+    "login": "route4me",
+    "avatar": "https://avatars.githubusercontent.com/u/7936820?v=4",
+    "amount": 250,
+    "link": "https://github.com/route4me",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "Prefect",
     "login": "marvin-robot",
     "avatar": "https://avatars.githubusercontent.com/u/41086007?u=b9fcab402d0cd0aec738b6574fe60855cb0cd36d&v=4",
