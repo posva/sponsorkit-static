@@ -180,15 +180,6 @@
     "isOneTime": false
   },
   {
-    "name": "Fisschl",
-    "login": "fisschl",
-    "avatar": "https://avatars.githubusercontent.com/u/60686701?u=da6b5d8fc28b2a70384a45f3098a27fe9af9cfe7&v=4",
-    "amount": 10,
-    "link": "https://github.com/fisschl",
-    "org": false,
-    "isOneTime": true
-  },
-  {
     "name": "Ole Aasen",
     "login": "aasen",
     "avatar": "https://avatars.githubusercontent.com/u/484133?u=f44b9b9d9309b6a80fa52458fef32c5a1d4dee17&v=4",
@@ -1631,6 +1622,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/13276705?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/fourjuaneight",
+    "org": false
+  },
+  {
+    "name": "fisschl",
+    "login": "fisschl",
+    "avatar": "https://avatars.githubusercontent.com/u/60686701?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/fisschl",
     "org": false
   },
   {
