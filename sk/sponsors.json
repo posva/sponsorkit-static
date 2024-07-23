@@ -18,6 +18,15 @@
     "isOneTime": true
   },
   {
+    "name": "Vue Mastery",
+    "login": "Code-Pop",
+    "avatar": "https://avatars.githubusercontent.com/u/22382188?v=4",
+    "amount": 250,
+    "link": "https://github.com/Code-Pop",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "Route4Me Route Planner",
     "login": "route4me",
     "avatar": "https://avatars.githubusercontent.com/u/7936820?v=4",
