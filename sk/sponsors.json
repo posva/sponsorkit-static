@@ -270,6 +270,15 @@
     "isOneTime": true
   },
   {
+    "name": "Huang Qihong",
+    "login": "hqh15",
+    "avatar": "https://avatars.githubusercontent.com/u/48705798?u=1349cd43e3982b1cdcd8eb955bbc8daa10d19780&v=4",
+    "amount": 5,
+    "link": "https://github.com/hqh15",
+    "org": false,
+    "isOneTime": false
+  },
+  {
     "name": "Guillaume Guerin",
     "login": "Lyliya",
     "avatar": "https://avatars.githubusercontent.com/u/22936229?u=5bdd10dfc37a1f10263f0476e07886d1ed1f4976&v=4",
