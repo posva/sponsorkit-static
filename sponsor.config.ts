@@ -53,7 +53,7 @@ export default defineConfig({
 
   onSponsorsFetched(sponsors) {
     const VueMastery = sponsors.find(
-      (s) => s.sponsor.login.toLowerCase() === 'gregg',
+      (s) => s.sponsor.login?.toLowerCase() === 'gregg',
     )
     if (VueMastery) {
       VueMastery.sponsor.name = 'Vue\u{00a0}Mastery'
