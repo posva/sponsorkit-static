@@ -135,15 +135,6 @@
     "isOneTime": false
   },
   {
-    "name": "FormKit",
-    "login": "formkit",
-    "avatar": "https://avatars.githubusercontent.com/u/76744415?v=4",
-    "amount": 15,
-    "link": "https://github.com/formkit",
-    "org": true,
-    "isOneTime": false
-  },
-  {
     "name": "Carlos Rodrigues",
     "login": "pikax",
     "avatar": "https://avatars.githubusercontent.com/u/4620458?v=4",
@@ -1653,6 +1644,14 @@
     "amount": -1,
     "link": "https://github.com/fourjuaneight",
     "org": false
+  },
+  {
+    "name": "formkit",
+    "login": "formkit",
+    "avatar": "https://avatars.githubusercontent.com/u/76744415?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/formkit",
+    "org": true
   },
   {
     "name": "fisschl",
