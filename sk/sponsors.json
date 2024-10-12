@@ -414,15 +414,6 @@
     "isOneTime": false
   },
   {
-    "name": "Benoît Burgener",
-    "login": "LeBenLeBen",
-    "avatar": "https://avatars.githubusercontent.com/u/793344?u=2427ecb96aa69f34e947493c95361b6fcc690633&v=4",
-    "amount": 5,
-    "link": "https://github.com/LeBenLeBen",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Austin Akers",
     "login": "BboyAkers",
     "avatar": "https://avatars.githubusercontent.com/u/11778717?u=fcae62f35eedad58c3d986d2adb60b40a8854952&v=4",
@@ -1339,6 +1330,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/35312043?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/leonardssh",
+    "org": false
+  },
+  {
+    "name": "LeBenLeBen",
+    "login": "LeBenLeBen",
+    "avatar": "https://avatars.githubusercontent.com/u/793344?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/LeBenLeBen",
     "org": false
   },
   {
