@@ -36,6 +36,15 @@
     "isOneTime": false
   },
   {
+    "name": "Hiroki Kokubun",
+    "login": "cocopon",
+    "avatar": "https://avatars.githubusercontent.com/u/602961?u=aef3e680dc9c074c313fd66d46c9c64904227665&v=4",
+    "amount": 181,
+    "link": "https://github.com/cocopon",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "NuxtLabs",
     "login": "nuxtlabs",
     "avatar": "https://avatars.githubusercontent.com/u/62017400?v=4",
