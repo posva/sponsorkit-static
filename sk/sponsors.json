@@ -567,15 +567,6 @@
     "isOneTime": false
   },
   {
-    "name": "Eduardo DONATO",
-    "login": "ebdonato",
-    "avatar": "https://avatars.githubusercontent.com/u/63134122?u=b9938b076bd74d22d233402804e5a24817ca13f0&v=4",
-    "amount": 1,
-    "link": "https://github.com/ebdonato",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Marko",
     "login": "aussieboi",
     "avatar": "https://avatars.githubusercontent.com/u/2497323?u=189c706b73e0495b56688589447d3e46b8045f73&v=4",
@@ -1716,6 +1707,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/91246630?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/EDDYANNNNG",
+    "org": false
+  },
+  {
+    "name": "ebdonato",
+    "login": "ebdonato",
+    "avatar": "https://avatars.githubusercontent.com/u/63134122?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/ebdonato",
     "org": false
   },
   {
