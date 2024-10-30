@@ -135,15 +135,6 @@
     "isOneTime": false
   },
   {
-    "name": "Phan An",
-    "login": "phanan",
-    "avatar": "https://avatars.githubusercontent.com/u/8056274?u=1d7d52031e45ea11ef9d29f9cbbf38cc2280c1b0&v=4",
-    "amount": 30,
-    "link": "https://github.com/phanan",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Filip Rakowski",
     "login": "filrak",
     "avatar": "https://avatars.githubusercontent.com/u/15185752?u=8525e972dfb7b6b0976ca5738e4b91f6205ed9ee&v=4",
@@ -1067,6 +1058,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2367770?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/phaust",
+    "org": false
+  },
+  {
+    "name": "phanan",
+    "login": "phanan",
+    "avatar": "https://avatars.githubusercontent.com/u/8056274?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/phanan",
     "org": false
   },
   {
