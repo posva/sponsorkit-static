@@ -893,6 +893,14 @@
     "org": false
   },
   {
+    "name": "Sh1-5",
+    "login": "Sh1-5",
+    "avatar": "https://avatars.githubusercontent.com/u/48705798?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/Sh1-5",
+    "org": false
+  },
+  {
     "name": "sentry",
     "login": "sentry",
     "avatar": "https://avatars.githubusercontent.com/u/20731068?s=60&v=4",
@@ -1514,14 +1522,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1881266?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/iamandrewluca",
-    "org": false
-  },
-  {
-    "name": "hqh15",
-    "login": "hqh15",
-    "avatar": "https://avatars.githubusercontent.com/u/48705798?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/hqh15",
     "org": false
   },
   {
