@@ -522,15 +522,6 @@
     "isOneTime": false
   },
   {
-    "name": "Martin",
-    "login": "MrMartinR",
-    "avatar": "https://avatars.githubusercontent.com/u/64530191?u=8d41b92cfc852e7a6778472bc9d512a19fb2fa8b&v=4",
-    "amount": 1,
-    "link": "https://github.com/MrMartinR",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Alex",
     "login": "piscis",
     "avatar": "https://avatars.githubusercontent.com/u/326163?u=cd27033c1be7653a22dcf9c83e48a1e62e1de1aa&v=4",
@@ -1226,6 +1217,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/444512?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/mrozekma",
+    "org": false
+  },
+  {
+    "name": "MrMartinR",
+    "login": "MrMartinR",
+    "avatar": "https://avatars.githubusercontent.com/u/64530191?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/MrMartinR",
     "org": false
   },
   {
