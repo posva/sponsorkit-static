@@ -1036,14 +1036,6 @@
     "org": false
   },
   {
-    "name": "porkotyler",
-    "login": "porkotyler",
-    "avatar": "https://avatars.githubusercontent.com/u/21061202?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/porkotyler",
-    "org": false
-  },
-  {
     "name": "PlutoCA",
     "login": "PlutoCA",
     "avatar": "https://avatars.githubusercontent.com/u/31099607?s=60&v=4",
@@ -1897,6 +1889,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/187045?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/Bitti09",
+    "org": false
+  },
+  {
+    "name": "bitter-steel",
+    "login": "bitter-steel",
+    "avatar": "https://avatars.githubusercontent.com/u/21061202?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/bitter-steel",
     "org": false
   },
   {
