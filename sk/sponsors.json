@@ -441,15 +441,6 @@
     "isOneTime": false
   },
   {
-    "name": "Codecov",
-    "login": "codecov",
-    "avatar": "https://avatars.githubusercontent.com/u/8226205?v=4",
-    "amount": 3,
-    "link": "https://github.com/codecov",
-    "org": true,
-    "isOneTime": false
-  },
-  {
     "name": "Paul ",
     "login": "paul-nallet",
     "avatar": "https://avatars.githubusercontent.com/u/23299188?u=5cb42b1bf075f95dc835b26a9f40de3a1af733f8&v=4",
@@ -1768,6 +1759,14 @@
     "amount": -1,
     "link": "https://github.com/CodesOfRa",
     "org": false
+  },
+  {
+    "name": "codecov",
+    "login": "codecov",
+    "avatar": "https://avatars.githubusercontent.com/u/8226205?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/codecov",
+    "org": true
   },
   {
     "name": "codebender828",
