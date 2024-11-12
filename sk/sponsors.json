@@ -425,19 +425,10 @@
   {
     "name": "kazuya kawaguchi",
     "login": "kazupon",
-    "avatar": "https://avatars.githubusercontent.com/u/72989?u=aa96aeeb839bf660697d90f50581e1c107616092&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/72989?u=d4fc7a7d65aca9450523e366a63aaa791868d470&v=4",
     "amount": 5,
     "link": "https://github.com/kazupon",
     "org": false,
-    "isOneTime": false
-  },
-  {
-    "name": "Sentry",
-    "login": "getsentry",
-    "avatar": "https://avatars.githubusercontent.com/u/1396951?v=4",
-    "amount": 4,
-    "link": "https://github.com/getsentry",
-    "org": true,
     "isOneTime": false
   },
   {
@@ -1569,6 +1560,14 @@
     "org": true
   },
   {
+    "name": "getsentry",
+    "login": "getsentry",
+    "avatar": "https://avatars.githubusercontent.com/u/1396951?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/getsentry",
+    "org": true
+  },
+  {
     "name": "gedkirkham",
     "login": "gedkirkham",
     "avatar": "https://avatars.githubusercontent.com/u/21038554?s=60&v=4",
@@ -1759,14 +1758,6 @@
     "amount": -1,
     "link": "https://github.com/CodesOfRa",
     "org": false
-  },
-  {
-    "name": "codecov",
-    "login": "codecov",
-    "avatar": "https://avatars.githubusercontent.com/u/8226205?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/codecov",
-    "org": true
   },
   {
     "name": "codebender828",
