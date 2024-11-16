@@ -36,15 +36,6 @@
     "isOneTime": false
   },
   {
-    "name": "Hiroki Kokubun",
-    "login": "cocopon",
-    "avatar": "https://avatars.githubusercontent.com/u/602961?u=48832889915523e3170c197e66bc04fc8303a096&v=4",
-    "amount": 181,
-    "link": "https://github.com/cocopon",
-    "org": false,
-    "isOneTime": true
-  },
-  {
     "name": "NuxtLabs",
     "login": "nuxtlabs",
     "avatar": "https://avatars.githubusercontent.com/u/62017400?v=4",
@@ -79,15 +70,6 @@
     "link": "https://github.com/antony-k1208",
     "org": false,
     "isOneTime": false
-  },
-  {
-    "name": "thanks.dev",
-    "login": "thnxdev",
-    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
-    "amount": 93,
-    "link": "https://github.com/thnxdev",
-    "org": true,
-    "isOneTime": true
   },
   {
     "name": "Mercedes-Benz Group",
@@ -726,6 +708,14 @@
     "amount": -1,
     "link": "https://github.com/thomasbnt",
     "org": false
+  },
+  {
+    "name": "thnxdev",
+    "login": "thnxdev",
+    "avatar": "https://avatars.githubusercontent.com/u/72539280?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/thnxdev",
+    "org": true
   },
   {
     "name": "ThinhVu",
@@ -1765,6 +1755,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/21237954?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/codebender828",
+    "org": false
+  },
+  {
+    "name": "cocopon",
+    "login": "cocopon",
+    "avatar": "https://avatars.githubusercontent.com/u/602961?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/cocopon",
     "org": false
   },
   {
