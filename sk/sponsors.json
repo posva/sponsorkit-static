@@ -216,6 +216,15 @@
     "isOneTime": false
   },
   {
+    "name": "Francisco Hermida",
+    "login": "franciscohermida",
+    "avatar": "https://avatars.githubusercontent.com/u/483242?u=bbcbc80eb9d8781ff401f7dafc3b59cd7bea0561&v=4",
+    "amount": 5,
+    "link": "https://github.com/franciscohermida",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
