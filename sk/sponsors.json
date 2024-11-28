@@ -216,6 +216,15 @@
     "isOneTime": false
   },
   {
+    "name": "Naoki Haba",
+    "login": "NaokiHaba",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=a1b6d1d39721eb8409f51bc707fde8d67d534eba&v=4",
+    "amount": 5,
+    "link": "https://github.com/NaokiHaba",
+    "org": false,
+    "isOneTime": false
+  },
+  {
     "name": "Francisco Hermida",
     "login": "franciscohermida",
     "avatar": "https://avatars.githubusercontent.com/u/483242?u=bbcbc80eb9d8781ff401f7dafc3b59cd7bea0561&v=4",
