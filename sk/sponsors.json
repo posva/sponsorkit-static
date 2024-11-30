@@ -153,15 +153,6 @@
     "isOneTime": false
   },
   {
-    "name": "Naruto",
-    "login": "naruto-onedev",
-    "avatar": "https://avatars.githubusercontent.com/u/111270813?v=4",
-    "amount": 10,
-    "link": "https://github.com/naruto-onedev",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Constantine Zaytsev",
     "login": "basuneko",
     "avatar": "https://avatars.githubusercontent.com/u/505411?u=803960e7d59a334e36c2fb735ec1ef7dc25737ac&v=4",
@@ -1182,6 +1173,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1814606?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/NBaron",
+    "org": false
+  },
+  {
+    "name": "naruto-onedev",
+    "login": "naruto-onedev",
+    "avatar": "https://avatars.githubusercontent.com/u/111270813?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/naruto-onedev",
     "org": false
   },
   {
