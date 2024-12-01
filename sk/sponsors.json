@@ -549,15 +549,6 @@
     "isOneTime": false
   },
   {
-    "name": "John Sherwood",
-    "login": "ponny",
-    "avatar": "https://avatars.githubusercontent.com/u/134539?v=4",
-    "amount": 1,
-    "link": "https://github.com/ponny",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Anand Chowdhary",
     "login": "AnandChowdhary",
     "avatar": "https://avatars.githubusercontent.com/u/2841780?u=747e554b3a7f12eb20b7910e1c87d817844f714f&v=4",
@@ -1013,6 +1004,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2939865?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/QuantumGhost",
+    "org": false
+  },
+  {
+    "name": "ponny",
+    "login": "ponny",
+    "avatar": "https://avatars.githubusercontent.com/u/134539?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/ponny",
     "org": false
   },
   {
