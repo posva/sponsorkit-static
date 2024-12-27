@@ -279,15 +279,6 @@
     "isOneTime": false
   },
   {
-    "name": "McPizza",
-    "login": "McPizza0",
-    "avatar": "https://avatars.githubusercontent.com/u/17185737?u=4772d9db7d1dd482082f7097c4ccc431c170e744&v=4",
-    "amount": 5,
-    "link": "https://github.com/McPizza0",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Noel De Martin",
     "login": "NoelDeMartin",
     "avatar": "https://avatars.githubusercontent.com/u/1517677?u=8ab468c89c92c1b0e1460fdb3033fa969d92441d&v=4",
@@ -1243,6 +1234,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/13247083?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/mfcarneiro",
+    "org": false
+  },
+  {
+    "name": "McPizza0",
+    "login": "McPizza0",
+    "avatar": "https://avatars.githubusercontent.com/u/17185737?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/McPizza0",
     "org": false
   },
   {
