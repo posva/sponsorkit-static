@@ -45,15 +45,6 @@
     "isOneTime": false
   },
   {
-    "name": "Storyblok",
-    "login": "storyblok",
-    "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
-    "amount": 100,
-    "link": "https://github.com/storyblok",
-    "org": true,
-    "isOneTime": false
-  },
-  {
     "name": "Stanislas Ormières",
     "login": "laruiss",
     "avatar": "https://avatars.githubusercontent.com/u/2486424?u=7b0c73ae5d090ce53bf59473094e9606fe082c59&v=4",
@@ -115,6 +106,15 @@
     "link": "https://github.com/checkly",
     "org": true,
     "isOneTime": false
+  },
+  {
+    "name": "Manuel Mejia",
+    "login": "manuelmejiaio",
+    "avatar": "https://avatars.githubusercontent.com/u/2773793?u=54772b1a2b981e86f679f1ccbe98f5441fd7c18a&v=4",
+    "amount": 25,
+    "link": "https://github.com/manuelmejiaio",
+    "org": false,
+    "isOneTime": true
   },
   {
     "name": "Filip Rakowski",
@@ -763,6 +763,14 @@
     "amount": -1,
     "link": "https://github.com/suabahasa",
     "org": false
+  },
+  {
+    "name": "storyblok",
+    "login": "storyblok",
+    "avatar": "https://avatars.githubusercontent.com/u/13880908?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/storyblok",
+    "org": true
   },
   {
     "name": "stilesdev",
