@@ -765,14 +765,6 @@
     "org": false
   },
   {
-    "name": "storyblok",
-    "login": "storyblok",
-    "avatar": "https://avatars.githubusercontent.com/u/13880908?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/storyblok",
-    "org": true
-  },
-  {
     "name": "stilesdev",
     "login": "stilesdev",
     "avatar": "https://avatars.githubusercontent.com/u/1377201?s=60&v=4",
