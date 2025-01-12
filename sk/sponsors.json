@@ -207,15 +207,6 @@
     "isOneTime": false
   },
   {
-    "name": "Naoki Haba",
-    "login": "NaokiHaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=2d740bc9a7cbacf2bed45c22e8af9f8e85843061&v=4",
-    "amount": 5,
-    "link": "https://github.com/NaokiHaba",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -1170,6 +1161,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/111270813?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/naruto-onedev",
+    "org": false
+  },
+  {
+    "name": "NaokiHaba",
+    "login": "NaokiHaba",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/NaokiHaba",
     "org": false
   },
   {
