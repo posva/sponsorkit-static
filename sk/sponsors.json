@@ -45,6 +45,15 @@
     "isOneTime": false
   },
   {
+    "name": "Storyblok",
+    "login": "storyblok",
+    "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
+    "amount": 100,
+    "link": "https://github.com/storyblok",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "Stanislas Ormières",
     "login": "laruiss",
     "avatar": "https://avatars.githubusercontent.com/u/2486424?u=7b0c73ae5d090ce53bf59473094e9606fe082c59&v=4",
