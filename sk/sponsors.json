@@ -153,6 +153,15 @@
     "isOneTime": false
   },
   {
+    "name": "David Vallejo",
+    "login": "thyngster",
+    "avatar": "https://avatars.githubusercontent.com/u/1494564?u=9f275ee477468e675a6e6e19faef6035eeace956&v=4",
+    "amount": 10,
+    "link": "https://github.com/thyngster",
+    "org": false,
+    "isOneTime": false
+  },
+  {
     "name": "Constantine Zaytsev",
     "login": "basuneko",
     "avatar": "https://avatars.githubusercontent.com/u/505411?u=803960e7d59a334e36c2fb735ec1ef7dc25737ac&v=4",
