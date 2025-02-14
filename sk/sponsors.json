@@ -1,5 +1,14 @@
 [
   {
+    "name": "Syntax",
+    "login": "syntaxfm",
+    "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
+    "amount": 2001,
+    "link": "https://github.com/syntaxfm",
+    "org": true,
+    "isOneTime": true
+  },
+  {
     "name": "Evan You",
     "login": "yyx990803",
     "avatar": "https://avatars.githubusercontent.com/u/499550?u=dd9a9ba40daf29be7c310f7075e74251609b03f3&v=4",
