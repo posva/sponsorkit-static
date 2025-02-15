@@ -441,6 +441,15 @@
     "isOneTime": false
   },
   {
+    "name": "Shawn Dust",
+    "login": "shawndust",
+    "avatar": "https://avatars.githubusercontent.com/u/12191370?u=ce120e38667ed8dcb1db36567c79d5b8d9f0c09e&v=4",
+    "amount": 1,
+    "link": "https://github.com/shawndust",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "Nikita Voblikov",
     "login": "nikvoblikov",
     "avatar": "https://avatars.githubusercontent.com/u/105175118?u=e7365371644d3bfa55ab79c12f1a5936b0a83e6c&v=4",
@@ -644,6 +653,14 @@
     "amount": -1,
     "link": "https://github.com/viageo-ch",
     "org": true
+  },
+  {
+    "name": "unrevised6419",
+    "login": "unrevised6419",
+    "avatar": "https://avatars.githubusercontent.com/u/1881266?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/unrevised6419",
+    "org": false
   },
   {
     "name": "turbotobias",
@@ -1523,14 +1540,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/3258966?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/ianaya89",
-    "org": false
-  },
-  {
-    "name": "iamandrewluca",
-    "login": "iamandrewluca",
-    "avatar": "https://avatars.githubusercontent.com/u/1881266?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/iamandrewluca",
     "org": false
   },
   {
