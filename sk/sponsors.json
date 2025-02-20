@@ -216,6 +216,15 @@
     "isOneTime": false
   },
   {
+    "name": "Naoki Haba",
+    "login": "NaokiHaba",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=9757e9356535d373ca1719e8a4cc4750d8beddbc&v=4",
+    "amount": 5,
+    "link": "https://github.com/NaokiHaba",
+    "org": false,
+    "isOneTime": false
+  },
+  {
     "name": "Francisco Hermida",
     "login": "franciscohermida",
     "avatar": "https://avatars.githubusercontent.com/u/483242?u=bbcbc80eb9d8781ff401f7dafc3b59cd7bea0561&v=4",
@@ -1203,14 +1212,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/111270813?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/naruto-onedev",
-    "org": false
-  },
-  {
-    "name": "NaokiHaba",
-    "login": "NaokiHaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/NaokiHaba",
     "org": false
   },
   {
