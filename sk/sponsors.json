@@ -1143,6 +1143,14 @@
     "org": false
   },
   {
+    "name": "OmarMcAdam",
+    "login": "OmarMcAdam",
+    "avatar": "https://avatars.githubusercontent.com/u/17185737?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/OmarMcAdam",
+    "org": false
+  },
+  {
     "name": "nuxt",
     "login": "nuxt",
     "avatar": "https://avatars.githubusercontent.com/u/23360933?s=60&v=4",
@@ -1276,14 +1284,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/13247083?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/mfcarneiro",
-    "org": false
-  },
-  {
-    "name": "McPizza0",
-    "login": "McPizza0",
-    "avatar": "https://avatars.githubusercontent.com/u/17185737?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/McPizza0",
     "org": false
   },
   {
