@@ -1062,6 +1062,14 @@
     "org": false
   },
   {
+    "name": "paulmelero",
+    "login": "paulmelero",
+    "avatar": "https://avatars.githubusercontent.com/u/6775220?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/paulmelero",
+    "org": false
+  },
+  {
     "name": "paul-nallet",
     "login": "paul-nallet",
     "avatar": "https://avatars.githubusercontent.com/u/23299188?s=60&v=4",
@@ -1619,14 +1627,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/1939656?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/GDay",
-    "org": false
-  },
-  {
-    "name": "gangsthub",
-    "login": "gangsthub",
-    "avatar": "https://avatars.githubusercontent.com/u/6775220?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/gangsthub",
     "org": false
   },
   {
