@@ -126,15 +126,6 @@
     "isOneTime": false
   },
   {
-    "name": "Filip Rakowski",
-    "login": "filrak",
-    "avatar": "https://avatars.githubusercontent.com/u/15185752?u=8525e972dfb7b6b0976ca5738e4b91f6205ed9ee&v=4",
-    "amount": 20,
-    "link": "https://github.com/filrak",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Carlos Rodrigues",
     "login": "pikax",
     "avatar": "https://avatars.githubusercontent.com/u/4620458?v=4",
@@ -1683,6 +1674,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/60686701?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/fisschl",
+    "org": false
+  },
+  {
+    "name": "filrak",
+    "login": "filrak",
+    "avatar": "https://avatars.githubusercontent.com/u/15185752?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/filrak",
     "org": false
   },
   {
