@@ -414,15 +414,6 @@
     "isOneTime": false
   },
   {
-    "name": "Shawn Dust",
-    "login": "shawndust",
-    "avatar": "https://avatars.githubusercontent.com/u/12191370?u=3a8ba67e909cbc0ba47e70f452cecd0ac6f5c63a&v=4",
-    "amount": 1,
-    "link": "https://github.com/shawndust",
-    "org": false,
-    "isOneTime": true
-  },
-  {
     "name": "Syntax",
     "login": "syntaxfm",
     "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
@@ -842,6 +833,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/5439924?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/shawnharmsen",
+    "org": false
+  },
+  {
+    "name": "shawndust",
+    "login": "shawndust",
+    "avatar": "https://avatars.githubusercontent.com/u/12191370?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/shawndust",
     "org": false
   },
   {
