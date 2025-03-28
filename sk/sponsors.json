@@ -9,6 +9,15 @@
     "isOneTime": false
   },
   {
+    "name": "CodeRabbit",
+    "login": "coderabbitai",
+    "avatar": "https://avatars.githubusercontent.com/u/132028505?v=4",
+    "amount": 500,
+    "link": "https://github.com/coderabbitai",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "Vue Mastery",
     "login": "Code-Pop",
     "avatar": "https://avatars.githubusercontent.com/u/22382188?v=4",
