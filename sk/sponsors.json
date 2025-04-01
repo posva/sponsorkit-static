@@ -81,15 +81,6 @@
     "isOneTime": false
   },
   {
-    "name": "Mercedes-Benz Group",
-    "login": "mercedes-benz",
-    "avatar": "https://avatars.githubusercontent.com/u/34240465?v=4",
-    "amount": 50,
-    "link": "https://github.com/mercedes-benz",
-    "org": true,
-    "isOneTime": false
-  },
-  {
     "name": "Divyansh Singh",
     "login": "brc-dd",
     "avatar": "https://avatars.githubusercontent.com/u/40380293?u=e83ad5634e032da9c2a0b1cdb41708c50bcc14a4&v=4",
@@ -218,7 +209,7 @@
   {
     "name": "Naoki Haba",
     "login": "NaokiHaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=8a6a89d39ceb3325accf7e8c9964d285c0dc8a7e&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=d247c806fda013ef4d588f447c82abf7f158c464&v=4",
     "amount": 5,
     "link": "https://github.com/NaokiHaba",
     "org": false,
@@ -1283,6 +1274,14 @@
     "amount": -1,
     "link": "https://github.com/mfcarneiro",
     "org": false
+  },
+  {
+    "name": "mercedes-benz",
+    "login": "mercedes-benz",
+    "avatar": "https://avatars.githubusercontent.com/u/34240465?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/mercedes-benz",
+    "org": true
   },
   {
     "name": "mc100s",
