@@ -72,15 +72,6 @@
     "isOneTime": false
   },
   {
-    "name": "Antony Konstantinidis",
-    "login": "antony-k1208",
-    "avatar": "https://avatars.githubusercontent.com/u/4183726?u=6b50a8ea16de29d2982f43c5640b1db9299ebcd1&v=4",
-    "amount": 100,
-    "link": "https://github.com/antony-k1208",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Divyansh Singh",
     "login": "brc-dd",
     "avatar": "https://avatars.githubusercontent.com/u/40380293?u=e83ad5634e032da9c2a0b1cdb41708c50bcc14a4&v=4",
@@ -2033,6 +2024,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/6553805?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/ap149",
+    "org": false
+  },
+  {
+    "name": "antony-k1208",
+    "login": "antony-k1208",
+    "avatar": "https://avatars.githubusercontent.com/u/4183726?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/antony-k1208",
     "org": false
   },
   {
