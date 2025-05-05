@@ -396,6 +396,15 @@
     "isOneTime": false
   },
   {
+    "name": "Connor Tumbleson",
+    "login": "iBotPeaches",
+    "avatar": "https://avatars.githubusercontent.com/u/611784?u=7c089b5fac20073487da8f2da20197f13979b1e0&v=4",
+    "amount": 2,
+    "link": "https://github.com/iBotPeaches",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "Jens Stigaard",
     "login": "jensstigaard",
     "avatar": "https://avatars.githubusercontent.com/u/1948848?v=4",
