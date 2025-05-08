@@ -423,15 +423,6 @@
     "isOneTime": true
   },
   {
-    "name": "Nikita Voblikov",
-    "login": "nikvoblikov",
-    "avatar": "https://avatars.githubusercontent.com/u/105175118?u=e7365371644d3bfa55ab79c12f1a5936b0a83e6c&v=4",
-    "amount": 1,
-    "link": "https://github.com/nikvoblikov",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Norman",
     "login": "nkoehring",
     "avatar": "https://avatars.githubusercontent.com/u/246402?u=5a93d26faaa0fb829fe03480f5c5a67dadd33f47&v=4",
@@ -1161,6 +1152,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/366888?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/nise-nabe",
+    "org": false
+  },
+  {
+    "name": "nikvoblikov",
+    "login": "nikvoblikov",
+    "avatar": "https://avatars.githubusercontent.com/u/105175118?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/nikvoblikov",
     "org": false
   },
   {
