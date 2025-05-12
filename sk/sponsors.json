@@ -135,6 +135,15 @@
     "isOneTime": false
   },
   {
+    "name": "FireGiant",
+    "login": "firegiant",
+    "avatar": "https://avatars.githubusercontent.com/u/3597386?v=4",
+    "amount": 10,
+    "link": "https://github.com/firegiant",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "David Vallejo",
     "login": "thyngster",
     "avatar": "https://avatars.githubusercontent.com/u/1494564?u=9f275ee477468e675a6e6e19faef6035eeace956&v=4",
