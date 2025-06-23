@@ -405,15 +405,6 @@
     "isOneTime": false
   },
   {
-    "name": null,
-    "login": "martin68",
-    "avatar": "https://avatars.githubusercontent.com/u/6174552?v=4",
-    "amount": 1,
-    "link": "https://github.com/martin68",
-    "org": false,
-    "isOneTime": true
-  },
-  {
     "name": "Syntax",
     "login": "syntaxfm",
     "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
@@ -1311,6 +1302,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/18535681?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/mattmaribojoc",
+    "org": false
+  },
+  {
+    "name": "martin68",
+    "login": "martin68",
+    "avatar": "https://avatars.githubusercontent.com/u/6174552?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/martin68",
     "org": false
   },
   {
