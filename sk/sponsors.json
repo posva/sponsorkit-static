@@ -198,6 +198,15 @@
     "isOneTime": false
   },
   {
+    "name": "Patrick Raedler",
+    "login": "Readpato",
+    "avatar": "https://avatars.githubusercontent.com/u/87768087?u=92295b660d1a0cc0c0f20a2b980812487f20c637&v=4",
+    "amount": 5,
+    "link": "https://github.com/Readpato",
+    "org": false,
+    "isOneTime": false
+  },
+  {
     "name": "Max",
     "login": "onmax",
     "avatar": "https://avatars.githubusercontent.com/u/22072217?u=5cd9a530f8cd1669cff4f085b71096f3372b6e1e&v=4",
