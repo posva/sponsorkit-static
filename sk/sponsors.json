@@ -135,6 +135,15 @@
     "isOneTime": false
   },
   {
+    "name": "Dhaya",
+    "login": "dhayab",
+    "avatar": "https://avatars.githubusercontent.com/u/154633?u=5b098737829a9eda6fed78203d6aaecded53f4a8&v=4",
+    "amount": 10,
+    "link": "https://github.com/dhayab",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "FireGiant",
     "login": "firegiant",
     "avatar": "https://avatars.githubusercontent.com/u/3597386?v=4",
