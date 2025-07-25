@@ -135,6 +135,15 @@
     "isOneTime": false
   },
   {
+    "name": "Matthias Zepper",
+    "login": "MatthiasZepper",
+    "avatar": "https://avatars.githubusercontent.com/u/6963520?u=f067c0ec290716984270fe0ea913241e62ce40c2&v=4",
+    "amount": 10,
+    "link": "https://github.com/MatthiasZepper",
+    "org": false,
+    "isOneTime": false
+  },
+  {
     "name": "Dhaya",
     "login": "dhayab",
     "avatar": "https://avatars.githubusercontent.com/u/154633?u=5b098737829a9eda6fed78203d6aaecded53f4a8&v=4",
