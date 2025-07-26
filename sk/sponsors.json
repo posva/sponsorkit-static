@@ -72,15 +72,6 @@
     "isOneTime": false
   },
   {
-    "name": "Divyansh Singh",
-    "login": "brc-dd",
-    "avatar": "https://avatars.githubusercontent.com/u/40380293?u=e83ad5634e032da9c2a0b1cdb41708c50bcc14a4&v=4",
-    "amount": 30,
-    "link": "https://github.com/brc-dd",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Canute Bigler",
     "login": "cbigler",
     "avatar": "https://avatars.githubusercontent.com/u/5421124?u=6fa54fa648639bc1d6b3b2524bd9f4aaf52a33e2&v=4",
@@ -1953,6 +1944,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/10180323?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/brolnickij",
+    "org": false
+  },
+  {
+    "name": "brc-dd",
+    "login": "brc-dd",
+    "avatar": "https://avatars.githubusercontent.com/u/40380293?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/brc-dd",
     "org": false
   },
   {
