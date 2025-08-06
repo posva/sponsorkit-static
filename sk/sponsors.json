@@ -18,6 +18,15 @@
     "isOneTime": false
   },
   {
+    "name": "Controla.ai",
+    "login": "Controla-ai",
+    "avatar": "https://avatars.githubusercontent.com/u/172242874?v=4",
+    "amount": 250,
+    "link": "https://github.com/Controla-ai",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "Vue Mastery",
     "login": "Code-Pop",
     "avatar": "https://avatars.githubusercontent.com/u/22382188?v=4",
@@ -124,6 +133,15 @@
     "link": "https://github.com/SmartDok",
     "org": true,
     "isOneTime": false
+  },
+  {
+    "name": "Qin",
+    "login": "level7in",
+    "avatar": "https://avatars.githubusercontent.com/u/9393567?u=8ba78846c0f2bba73b36df879b9143518996b173&v=4",
+    "amount": 10,
+    "link": "https://github.com/level7in",
+    "org": false,
+    "isOneTime": true
   },
   {
     "name": "Matthias Zepper",
