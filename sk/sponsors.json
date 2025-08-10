@@ -180,15 +180,6 @@
     "isOneTime": false
   },
   {
-    "name": "Constantine Zaytsev",
-    "login": "basuneko",
-    "avatar": "https://avatars.githubusercontent.com/u/505411?u=803960e7d59a334e36c2fb735ec1ef7dc25737ac&v=4",
-    "amount": 10,
-    "link": "https://github.com/basuneko",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Liam DeBeasi",
     "login": "liamdebeasi",
     "avatar": "https://avatars.githubusercontent.com/u/2721089?u=05a4ddd19f59bfb0d02c0a9c7de992da654df90f&v=4",
@@ -2016,6 +2007,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/78412429?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/bcakmakoglu",
+    "org": false
+  },
+  {
+    "name": "basuneko",
+    "login": "basuneko",
+    "avatar": "https://avatars.githubusercontent.com/u/505411?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/basuneko",
     "org": false
   },
   {
