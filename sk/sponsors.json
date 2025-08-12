@@ -1250,6 +1250,14 @@
     "org": false
   },
   {
+    "name": "moxymaya",
+    "login": "moxymaya",
+    "avatar": "https://avatars.githubusercontent.com/u/21038554?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/moxymaya",
+    "org": false
+  },
+  {
     "name": "mohamedebrahim96",
     "login": "mohamedebrahim96",
     "avatar": "https://avatars.githubusercontent.com/u/16405013?s=60&v=4",
@@ -1656,14 +1664,6 @@
     "amount": -1,
     "link": "https://github.com/github",
     "org": true
-  },
-  {
-    "name": "gedkirkham",
-    "login": "gedkirkham",
-    "avatar": "https://avatars.githubusercontent.com/u/21038554?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/gedkirkham",
-    "org": false
   },
   {
     "name": "GDay",
