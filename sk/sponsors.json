@@ -135,15 +135,6 @@
     "isOneTime": false
   },
   {
-    "name": "Qin",
-    "login": "level7in",
-    "avatar": "https://avatars.githubusercontent.com/u/9393567?u=8ba78846c0f2bba73b36df879b9143518996b173&v=4",
-    "amount": 10,
-    "link": "https://github.com/level7in",
-    "org": false,
-    "isOneTime": true
-  },
-  {
     "name": "Matthias Zepper",
     "login": "MatthiasZepper",
     "avatar": "https://avatars.githubusercontent.com/u/6963520?u=f067c0ec290716984270fe0ea913241e62ce40c2&v=4",
@@ -1382,6 +1373,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/50254496?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/LoTwT",
+    "org": false
+  },
+  {
+    "name": "level7in",
+    "login": "level7in",
+    "avatar": "https://avatars.githubusercontent.com/u/9393567?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/level7in",
     "org": false
   },
   {
