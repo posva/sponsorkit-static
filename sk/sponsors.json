@@ -27,15 +27,6 @@
     "isOneTime": true
   },
   {
-    "name": "Controla.ai",
-    "login": "Controla-ai",
-    "avatar": "https://avatars.githubusercontent.com/u/172242874?v=4",
-    "amount": 250,
-    "link": "https://github.com/Controla-ai",
-    "org": true,
-    "isOneTime": false
-  },
-  {
     "name": "Vue Mastery",
     "login": "Code-Pop",
     "avatar": "https://avatars.githubusercontent.com/u/22382188?v=4",
@@ -1209,6 +1200,14 @@
     "org": false
   },
   {
+    "name": "narcisbugeag",
+    "login": "narcisbugeag",
+    "avatar": "https://avatars.githubusercontent.com/u/35312043?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/narcisbugeag",
+    "org": false
+  },
+  {
     "name": "naokihaba",
     "login": "naokihaba",
     "avatar": "https://avatars.githubusercontent.com/u/59875779?s=60&v=4",
@@ -1390,14 +1389,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/9393567?s=60&v=4",
     "amount": -1,
     "link": "https://github.com/level7in",
-    "org": false
-  },
-  {
-    "name": "leonardssh",
-    "login": "leonardssh",
-    "avatar": "https://avatars.githubusercontent.com/u/35312043?s=60&v=4",
-    "amount": -1,
-    "link": "https://github.com/leonardssh",
     "org": false
   },
   {
@@ -1847,6 +1838,14 @@
     "amount": -1,
     "link": "https://github.com/coolhome",
     "org": false
+  },
+  {
+    "name": "Controla-ai",
+    "login": "Controla-ai",
+    "avatar": "https://avatars.githubusercontent.com/u/172242874?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/Controla-ai",
+    "org": true
   },
   {
     "name": "cogor",
