@@ -27,6 +27,15 @@
     "isOneTime": true
   },
   {
+    "name": "Sendcloud",
+    "login": "SendCloud",
+    "avatar": "https://avatars.githubusercontent.com/u/7831959?v=4",
+    "amount": 250,
+    "link": "https://github.com/SendCloud",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "Controla.ai",
     "login": "Controla-ai",
     "avatar": "https://avatars.githubusercontent.com/u/172242874?v=4",
