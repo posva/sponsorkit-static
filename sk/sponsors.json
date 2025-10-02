@@ -261,15 +261,6 @@
     "isOneTime": false
   },
   {
-    "name": "Perpetual Education",
-    "login": "perpetual-education",
-    "avatar": "https://avatars.githubusercontent.com/u/149908464?v=4",
-    "amount": 5,
-    "link": "https://github.com/perpetual-education",
-    "org": true,
-    "isOneTime": false
-  },
-  {
     "name": "blackbird GmbH",
     "login": "blackbirdUG",
     "avatar": "https://avatars.githubusercontent.com/u/61544907?u=47c13f3eec39e9f0fa8e3bf4db9dac45699f4a90&v=4",
@@ -1040,6 +1031,14 @@
     "amount": -1,
     "link": "https://github.com/perpetual-education-personal",
     "org": false
+  },
+  {
+    "name": "perpetual-education",
+    "login": "perpetual-education",
+    "avatar": "https://avatars.githubusercontent.com/u/149908464?s=60&v=4",
+    "amount": -1,
+    "link": "https://github.com/perpetual-education",
+    "org": true
   },
   {
     "name": "PawFV",
