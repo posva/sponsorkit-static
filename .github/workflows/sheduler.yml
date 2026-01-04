@@ -22,14 +22,36 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      - name: Save current sponsors hash
+        id: sponsors-before
+        run: |
+          if [ -f sk/sponsors.json ]; then
+            echo "hash=$(sha256sum sk/sponsors.json | cut -d' ' -f1)" >> $GITHUB_OUTPUT
+          else
+            echo "hash=none" >> $GITHUB_OUTPUT
+          fi
+
       - name: Update sponsors
         run: pnpm run build
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: posva
 
+      - name: Check for sponsor changes
+        id: sponsors-after
+        run: |
+          NEW_HASH=$(sha256sum sk/sponsors.json | cut -d' ' -f1)
+          if [ "${{ steps.sponsors-before.outputs.hash }}" = "$NEW_HASH" ]; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No sponsor changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Sponsors changed!"
+          fi
+
       - name: Commit
+        if: steps.sponsors-after.outputs.changed == 'true'
         uses: EndBug/add-and-commit@v9
         with:
-          message: "chore: update sponsors.svg"
+          message: "chore: update sponsors"
           add: "sk/*.svg sk/*.png sk/sponsors.json"
