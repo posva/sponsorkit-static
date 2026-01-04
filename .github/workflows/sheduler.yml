@@ -3,7 +3,7 @@ name: Scheduler
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # every day at midnight
+    - cron: "0 0 * * *" # every day at midnight
   push:
     branches: [main]
 
@@ -13,9 +13,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - uses: pnpm/action-setup@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: lts/*
           cache: pnpm
@@ -31,5 +31,5 @@ jobs:
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
-          message: 'chore: update sponsors.svg'
-          add: 'sk/*.svg sk/*.png sk/sponsors.json'
+          message: "chore: update sponsors.svg"
+          add: "sk/*.svg sk/*.png sk/sponsors.json"
