@@ -54,24 +54,6 @@
     "isOneTime": false
   },
   {
-    "name": "RTVision",
-    "login": "RTVision",
-    "avatar": "https://avatars.githubusercontent.com/u/8292810?v=4",
-    "amount": 100,
-    "link": "https://github.com/RTVision",
-    "org": true,
-    "isOneTime": false
-  },
-  {
-    "name": "Storyblok",
-    "login": "storyblok",
-    "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
-    "amount": 100,
-    "link": "https://github.com/storyblok",
-    "org": true,
-    "isOneTime": false
-  },
-  {
     "name": "Stanislas Ormières",
     "login": "laruiss",
     "avatar": "https://avatars.githubusercontent.com/u/2486424?u=7b0c73ae5d090ce53bf59473094e9606fe082c59&v=4",
@@ -560,7 +542,7 @@
   {
     "name": "Naoki Haba",
     "login": "naokihaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=4528dd68762567967bc5abbf831b6876252d7081&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=3ba6c7bb3ccaf6512b6e63dca0d66dbc00ab663d&v=4",
     "amount": -1,
     "link": "https://github.com/naokihaba",
     "org": false,
@@ -846,6 +828,15 @@
     "isOneTime": false
   },
   {
+    "name": "RTVision",
+    "login": "RTVision",
+    "avatar": "https://avatars.githubusercontent.com/u/8292810?v=4",
+    "amount": -1,
+    "link": "https://github.com/RTVision",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "Luca Hendrik Helms",
     "login": "qwerty084",
     "avatar": "https://avatars.githubusercontent.com/u/81753196?v=4",
@@ -1008,6 +999,15 @@
     "isOneTime": true
   },
   {
+    "name": "Storyblok",
+    "login": "storyblok",
+    "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
+    "amount": -1,
+    "link": "https://github.com/storyblok",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "Milad Dehghan",
     "login": "miladd3",
     "avatar": "https://avatars.githubusercontent.com/u/1721290?u=fb81eea700217df35300c327d88b173f280c76ae&v=4",
@@ -1163,7 +1163,7 @@
   {
     "name": "Andrei L",
     "login": "unrevised6419",
-    "avatar": "https://avatars.githubusercontent.com/u/1881266?u=0cdf9e81dc390a9bab23ffa1405e8bc8692dc3d7&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/1881266?u=c86b7c7b8ffb23f5ee29bb80e4d1c22aee94b273&v=4",
     "amount": -1,
     "link": "https://github.com/unrevised6419",
     "org": false,
@@ -1172,7 +1172,7 @@
   {
     "name": "Ankur Kakroo",
     "login": "ankurkakroo2",
-    "avatar": "https://avatars.githubusercontent.com/u/7814949?u=378e3e89002340f15495076623c9b7998025286c&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/7814949?u=8e931ccbdf37ce27a1243cd6daa4693febac2dad&v=4",
     "amount": -1,
     "link": "https://github.com/ankurkakroo2",
     "org": false,
@@ -1451,7 +1451,7 @@
   {
     "name": "Alex",
     "login": "piscis",
-    "avatar": "https://avatars.githubusercontent.com/u/326163?u=b245f368bd940cf51d08c0b6bf55f8257f359437&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/326163?u=bf53ee39eafb4ab12de01d9a27ae68abbdc134cd&v=4",
     "amount": -1,
     "link": "https://github.com/piscis",
     "org": false,
@@ -1539,7 +1539,7 @@
     "isOneTime": false
   },
   {
-    "name": "kissu",
+    "name": "Konstantin BIFERT",
     "login": "kissu",
     "avatar": "https://avatars.githubusercontent.com/u/5133074?u=5eddeda68548c1ea72460c75ee957289c96478e0&v=4",
     "amount": -1,
