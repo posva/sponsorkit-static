@@ -1134,7 +1134,7 @@
     "isOneTime": false
   },
   {
-    "name": "Konstantin BIFERT",
+    "name": "kissu",
     "login": "kissu",
     "avatar": "https://avatars.githubusercontent.com/u/5133074?v=4",
     "amount": -1,
@@ -1920,7 +1920,7 @@
     "name": "RTVision",
     "login": "RTVision",
     "avatar": "https://avatars.githubusercontent.com/u/8292810?v=4",
-    "amount": -1,
+    "amount": 100,
     "link": "https://github.com/RTVision",
     "org": true,
     "isOneTime": false
@@ -2127,7 +2127,7 @@
     "name": "Storyblok",
     "login": "storyblok",
     "avatar": "https://avatars.githubusercontent.com/u/13880908?v=4",
-    "amount": -1,
+    "amount": 100,
     "link": "https://github.com/storyblok",
     "org": true,
     "isOneTime": false
