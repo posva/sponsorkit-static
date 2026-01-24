@@ -2097,6 +2097,15 @@
     "isOneTime": false
   },
   {
+    "name": "Stephen Godard",
+    "login": "StephenGodard",
+    "avatar": "https://avatars.githubusercontent.com/u/43731620?v=4",
+    "amount": 30,
+    "link": "https://github.com/StephenGodard",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "ivan",
     "login": "stevenleep",
     "avatar": "https://avatars.githubusercontent.com/u/106362981?v=4",
@@ -2286,7 +2295,7 @@
     "isOneTime": false
   },
   {
-    "name": null,
+    "name": "tmm",
     "login": "tmm",
     "avatar": "https://avatars.githubusercontent.com/u/6759464?v=4",
     "amount": -1,
