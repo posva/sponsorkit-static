@@ -2088,6 +2088,15 @@
     "isOneTime": false
   },
   {
+    "name": "Sergii Shilingov",
+    "login": "sshiling",
+    "avatar": "https://avatars.githubusercontent.com/u/13174541?v=4",
+    "amount": 1,
+    "link": "https://github.com/sshiling",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "Sacha Stafyniak",
     "login": "stafyniaksacha",
     "avatar": "https://avatars.githubusercontent.com/u/3911343?v=4",
