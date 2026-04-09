@@ -1278,6 +1278,15 @@
     "isOneTime": true
   },
   {
+    "name": "Mark Imbriaco",
+    "login": "markimbriaco",
+    "avatar": "https://avatars.githubusercontent.com/u/16392444?v=4",
+    "amount": 2,
+    "link": "https://github.com/markimbriaco",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": null,
     "login": "martialmarel",
     "avatar": "https://avatars.githubusercontent.com/u/743775?v=4",
