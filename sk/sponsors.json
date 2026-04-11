@@ -2313,6 +2313,15 @@
     "isOneTime": false
   },
   {
+    "name": "Luca Grifo",
+    "login": "Tkkg1994",
+    "avatar": "https://avatars.githubusercontent.com/u/10393524?v=4",
+    "amount": 250,
+    "link": "https://github.com/Tkkg1994",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": null,
     "login": "TLXTech",
     "avatar": "https://avatars.githubusercontent.com/u/14214008?v=4",
