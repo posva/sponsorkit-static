@@ -1173,7 +1173,7 @@
     "name": "Stanislas Ormières",
     "login": "laruiss",
     "avatar": "https://avatars.githubusercontent.com/u/2486424?v=4",
-    "amount": 100,
+    "amount": -1,
     "link": "https://github.com/laruiss",
     "org": false,
     "isOneTime": false
@@ -1920,7 +1920,7 @@
     "name": "Route4Me Route Planner",
     "login": "route4me",
     "avatar": "https://avatars.githubusercontent.com/u/7936820?v=4",
-    "amount": 250,
+    "amount": -1,
     "link": "https://github.com/route4me",
     "org": true,
     "isOneTime": false
