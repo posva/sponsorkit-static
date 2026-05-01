@@ -882,6 +882,15 @@
     "isOneTime": false
   },
   {
+    "name": "Hermes Loop",
+    "login": "HermesLoop",
+    "avatar": "https://avatars.githubusercontent.com/u/16392444?v=4",
+    "amount": 2,
+    "link": "https://github.com/HermesLoop",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "HeroDevs",
     "login": "herodevs",
     "avatar": "https://avatars.githubusercontent.com/u/35441165?v=4",
@@ -1274,15 +1283,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/11434946?v=4",
     "amount": -1,
     "link": "https://github.com/marcosgomesneto",
-    "org": false,
-    "isOneTime": true
-  },
-  {
-    "name": "Mark Imbriaco",
-    "login": "markimbriaco",
-    "avatar": "https://avatars.githubusercontent.com/u/16392444?v=4",
-    "amount": 2,
-    "link": "https://github.com/markimbriaco",
     "org": false,
     "isOneTime": true
   },
@@ -2100,7 +2100,7 @@
     "name": "Sergii Shilingov",
     "login": "sshiling",
     "avatar": "https://avatars.githubusercontent.com/u/13174541?v=4",
-    "amount": 1,
+    "amount": -1,
     "link": "https://github.com/sshiling",
     "org": false,
     "isOneTime": true
