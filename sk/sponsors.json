@@ -81,7 +81,7 @@
     "isOneTime": true
   },
   {
-    "name": "AKD Studios",
+    "name": "AKd Studio",
     "login": "akdasa-studios",
     "avatar": "https://avatars.githubusercontent.com/u/115068555?v=4",
     "amount": -1,
@@ -1197,6 +1197,15 @@
     "isOneTime": false
   },
   {
+    "name": "Narcis Bugeag",
+    "login": "leonardssh",
+    "avatar": "https://avatars.githubusercontent.com/u/35312043?v=4",
+    "amount": -1,
+    "link": "https://github.com/leonardssh",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "Qin",
     "login": "level7in",
     "avatar": "https://avatars.githubusercontent.com/u/9393567?v=4",
@@ -1465,15 +1474,6 @@
     "link": "https://github.com/naokihaba",
     "org": false,
     "isOneTime": false
-  },
-  {
-    "name": "Narcis Bugeag",
-    "login": "narcisbugeag",
-    "avatar": "https://avatars.githubusercontent.com/u/35312043?v=4",
-    "amount": -1,
-    "link": "https://github.com/narcisbugeag",
-    "org": false,
-    "isOneTime": true
   },
   {
     "name": "Naruto",
