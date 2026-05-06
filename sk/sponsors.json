@@ -2091,10 +2091,10 @@
     "name": "Sergii Shilingov",
     "login": "sshiling",
     "avatar": "https://avatars.githubusercontent.com/u/13174541?v=4",
-    "amount": -1,
+    "amount": 1,
     "link": "https://github.com/sshiling",
     "org": false,
-    "isOneTime": true
+    "isOneTime": false
   },
   {
     "name": "Sacha Stafyniak",
