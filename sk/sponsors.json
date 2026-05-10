@@ -882,6 +882,15 @@
     "isOneTime": false
   },
   {
+    "name": "Hermes Loop",
+    "login": "HermesLoop",
+    "avatar": "https://avatars.githubusercontent.com/u/16392444?v=4",
+    "amount": -1,
+    "link": "https://github.com/HermesLoop",
+    "org": false,
+    "isOneTime": true
+  },
+  {
     "name": "HeroDevs",
     "login": "herodevs",
     "avatar": "https://avatars.githubusercontent.com/u/35441165?v=4",
@@ -1834,15 +1843,6 @@
     "link": "https://github.com/raisiqueira",
     "org": false,
     "isOneTime": false
-  },
-  {
-    "name": "Ralpharium",
-    "login": "Ralpharium",
-    "avatar": "https://avatars.githubusercontent.com/u/16392444?v=4",
-    "amount": 2,
-    "link": "https://github.com/Ralpharium",
-    "org": false,
-    "isOneTime": true
   },
   {
     "name": "Ramsés Moreno",
