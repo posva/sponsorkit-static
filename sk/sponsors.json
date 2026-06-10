@@ -414,15 +414,6 @@
     "isOneTime": false
   },
   {
-    "name": "Sybren W",
-    "login": "carwack",
-    "avatar": "https://avatars.githubusercontent.com/u/16015740?v=4",
-    "amount": -1,
-    "link": "https://github.com/carwack",
-    "org": false,
-    "isOneTime": false
-  },
-  {
     "name": "Canute Bigler",
     "login": "cbigler",
     "avatar": "https://avatars.githubusercontent.com/u/5421124?v=4",
@@ -2185,6 +2176,15 @@
     "link": "https://github.com/sxzz",
     "org": false,
     "isOneTime": true
+  },
+  {
+    "name": "Sybren W",
+    "login": "Sybren-crwk",
+    "avatar": "https://avatars.githubusercontent.com/u/16015740?v=4",
+    "amount": -1,
+    "link": "https://github.com/Sybren-crwk",
+    "org": false,
+    "isOneTime": false
   },
   {
     "name": "Syntax",
