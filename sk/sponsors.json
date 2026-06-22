@@ -444,7 +444,7 @@
     "name": "Checkly",
     "login": "checkly",
     "avatar": "https://avatars.githubusercontent.com/u/25982255?v=4",
-    "amount": 30,
+    "amount": -1,
     "link": "https://github.com/checkly",
     "org": true,
     "isOneTime": false
