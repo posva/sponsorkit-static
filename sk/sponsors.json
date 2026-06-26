@@ -1191,7 +1191,7 @@
     "name": "Qin",
     "login": "level7in",
     "avatar": "https://avatars.githubusercontent.com/u/9393567?v=4",
-    "amount": 10,
+    "amount": -1,
     "link": "https://github.com/level7in",
     "org": false,
     "isOneTime": true
