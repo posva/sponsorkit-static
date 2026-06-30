@@ -81,15 +81,6 @@
     "isOneTime": true
   },
   {
-    "name": "AKd Studio",
-    "login": "akdasa-studios",
-    "avatar": "https://avatars.githubusercontent.com/u/115068555?v=4",
-    "amount": -1,
-    "link": "https://github.com/akdasa-studios",
-    "org": true,
-    "isOneTime": true
-  },
-  {
     "name": "Dix",
     "login": "AleksejDix",
     "avatar": "https://avatars.githubusercontent.com/u/8349161?v=4",
@@ -1024,6 +1015,15 @@
     "link": "https://github.com/jithinraj",
     "org": false,
     "isOneTime": false
+  },
+  {
+    "name": "Jiva Studio",
+    "login": "jiva-studio",
+    "avatar": "https://avatars.githubusercontent.com/u/115068555?v=4",
+    "amount": -1,
+    "link": "https://github.com/jiva-studio",
+    "org": true,
+    "isOneTime": true
   },
   {
     "name": "John Leider",
