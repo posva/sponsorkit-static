@@ -1566,6 +1566,15 @@
     "isOneTime": false
   },
   {
+    "name": "Numberly",
+    "login": "numberly",
+    "avatar": "https://avatars.githubusercontent.com/u/5330219?v=4",
+    "amount": 10,
+    "link": "https://github.com/numberly",
+    "org": true,
+    "isOneTime": false
+  },
+  {
     "name": "Nuxt",
     "login": "nuxt",
     "avatar": "https://avatars.githubusercontent.com/u/23360933?v=4",
